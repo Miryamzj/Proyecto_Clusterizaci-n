@@ -1,0 +1,22 @@
+{
+  "version": "1.2",
+  "dbname": "enterotoxinas.fasta",
+  "dbtype": "Protein",
+  "db-version": 5,
+  "description": "enterotoxinas.fasta",
+  "number-of-letters": 9244,
+  "number-of-sequences": 37,
+  "last-updated": "2026-02-25T12:50:00",
+  "number-of-volumes": 1,
+  "bytes-total": 50118,
+  "bytes-to-cache": 9690,
+  "files": [
+    "enterotoxinas.fasta.pdb",
+    "enterotoxinas.fasta.phr",
+    "enterotoxinas.fasta.pin",
+    "enterotoxinas.fasta.pot",
+    "enterotoxinas.fasta.psq",
+    "enterotoxinas.fasta.ptf",
+    "enterotoxinas.fasta.pto"
+  ]
+}
