@@ -95,7 +95,7 @@ ccom <- hclust(d, method = "complete")
 cwar <- hclust(d, method = "ward.D2")
 
 # k solo para visualizar y cortar árboles
-k <- 4
+k <- 3
 
 # Guardar dendrogramas + rectángulos 
 png("results/figures/dendrogramas_4_metodos.png", width = 2200, height = 900)
