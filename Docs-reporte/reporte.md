@@ -27,7 +27,7 @@ El objetivo de este proyecto fue implementar en R un flujo de análisis para rea
 
 Para comparar el efecto del método de agrupamiento sobre la estructura del dendrograma, se generaron árboles mediante cuatro estrategias de clustering jerárquico: **single**, **average**, **complete** y **Ward.D2**.
 
-![Dendrogramas obtenidos con cuatro métodos de clustering jerárquico](..\results\1r_results_prueba_k\figures\dendrogramas_4_metodos.png)
+![Dendrogramas obtenidos con cuatro métodos de clustering jerárquico](../results/1r_results_prueba_k/figures/dendrogramas_4_metodos.png)
 
 
 Al comparar los cuatro árboles, se observó que el método **single** fue el menos informativo. Este dendrograma presentó una estructura típica de encadenamiento, en la que muchas secuencias se van agregando progresivamente a un grupo grande sin formar particiones bien delimitadas. Como consecuencia, la interpretación de los clusters resulta menos clara y la comparación con la taxonomía se dificulta.
